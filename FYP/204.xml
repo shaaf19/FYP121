@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images fyp</folder>
+	<filename>204.jpg</filename>
+	<path>C:\Users\MSI\Desktop\Images fyp\204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1310</width>
+		<height>461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiln</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymin>268</ymin>
+			<xmax>667</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kiln</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>935</xmin>
+			<ymin>45</ymin>
+			<xmax>1068</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>
