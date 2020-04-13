@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images fyp</folder>
+	<filename>170.jpg</filename>
+	<path>C:\Users\MSI\Desktop\Images fyp\170.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1309</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiln</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>115</ymin>
+			<xmax>891</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
