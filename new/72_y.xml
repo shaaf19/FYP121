@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images fyp</folder>
+	<filename>72.jpg</filename>
+	<path>C:\Users\MSI\Desktop\Images fyp\72.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1309</width>
+		<height>462</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiln</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>17</ymin>
+			<xmax>-203</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>
